@@ -1,6 +1,8 @@
 ---
-title:  "5 Tokyo Train Tips"
-excerpt: One of the five supreme stores is located in omotensando in harajuku, Tokyo, and this store is a smaller one in Tokyo comparing with the other one in Shibuya.
+title: 5 Tokyo Train Tips
+date: 2025-04-15 00:00:00 Z
+excerpt: One of the five supreme stores is located in omotensando in harajuku, Tokyo,
+  and this store is a smaller one in Tokyo comparing with the other one in Shibuya.
 ---
 
 When you first arrive in Tokyo it won’t be long before you need to use the subway.  It’s the most efficient way to get to from A to B in super quick time; you just have to master the lines and how they interact first. It’s a major feat of engineering and makes daily life flow for millions of people in Tokyo but it can be a bit overwhelming when you first encounter it.  You’re not going to be able to avoid it for long though so you might as well jump right in.  Here are my five tips to keep you sane and get you to your destination on the Tokyo Subway.
